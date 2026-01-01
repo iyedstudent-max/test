@@ -13,7 +13,7 @@
 	padding-left: 2%;
 }
 .word{
-	color:red;
+	color:#f15a90;
 }
 
 body {
@@ -25,7 +25,7 @@ body {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 90%;
   line-height: 1.5;
-  background-image: linear-gradient(to bottom, #009999 0%, #ffffff 100%);
+  background-image: linear-gradient(to bottom, #ff49d8 0%, #ffdef3 100%);
 }
 
 
@@ -33,7 +33,7 @@ body {
   height: 75vh;
   width: 65vw;
   border-radius: 10px 30px;
-  background: #333;
+  background: #3f2d36;
   box-shadow: 0 10px 45px -5px rgba(0,0,0,0.8)
 }
 
